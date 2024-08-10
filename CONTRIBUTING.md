@@ -1,4 +1,4 @@
-# Contributing
+# Contributing      
 
 Thanks for your interest in contributing to ui.shadcn.com. We're happy to have you here.
 
